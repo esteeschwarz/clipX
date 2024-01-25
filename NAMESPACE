@@ -1,0 +1,4 @@
+import(clipr)
+import(stringi)
+exportPattern("^[[:alpha:]]+")
+export(clipX)
