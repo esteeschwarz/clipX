@@ -4,7 +4,7 @@ Title: process clipboard content to string ready-to-paste into command
 Version: 0.1.0
 Author: esteeschwarz
 Maintainer: esteeschwarz <estee@dh-index.org>
-Description: process clipboard content to string ready-to-paste into command after assigment. simply paste anything from a text, execute the function and the new clipboard will contain the processed previous clipboard content.
+Description: Tiny clipr extension. process clipboard content to string ready-to-paste into command after assigment. simply paste anything from a text, execute the function and the new clipboard will contain the processed previous clipboard content.
 License: GPL
 Imports: 
    clipr,

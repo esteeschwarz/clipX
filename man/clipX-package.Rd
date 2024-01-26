@@ -3,7 +3,7 @@
 \docType{package}
 \title{process clipboard content}
 \description{
-This is a package that simply puts out clipboard content as ready to paste \code{c()} string.
+Tiny \pkg{clipr} extension that simply puts out clipboard content as a ready to paste \code{c()} string.
 }
 \details{
 \tabular{ll}{
